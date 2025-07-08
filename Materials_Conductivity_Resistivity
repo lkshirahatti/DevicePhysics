@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Input format "Material", "Resistivity (Ω·m)", "Conductivity (S/m)" use to if range of values are available 
+# Input format "Material", "Resistivity (Ω·m)", "Conductivity (S/m)" use "to" if range of values are available like ("Teflon", "1e22 to 1e24", "1e-25 to 1e-23")
 
 data = [
     ("Silver", 1.59e-8, 6.30e7),
