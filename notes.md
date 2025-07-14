@@ -27,5 +27,5 @@ Note: Click the link above to view the animation.
 
 
 ## Two basic transport mechanisms in a semiconductor crystal:
-1. drift—the movement of charge due to electric fields  
-2. diffusion—the flow of charge due to density gradients
+1. Drift—the movement of charge due to electric fields  
+2. Diffusion—the flow of charge due to density gradients
