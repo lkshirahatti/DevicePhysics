@@ -1,8 +1,9 @@
 ## Bloch Theorem
 
 The theorem states that all one-electron wave functions, for problems involving periodically varying potential energy functions, must be of the form:  
-&nbsp;&nbsp;&nbsp;&nbsp;$\psi(x) = u(x) \cdot \exp(j \cdot k \cdot x)$
-
+$$
+\psi(x) = u(x) \cdot \exp(j \cdot k \cdot x)
+$$
 ## k-Space Diagram
 ![Band Gap Animation](https://upload.wikimedia.org/wikipedia/commons/d/d2/Bulkbandstructure.gif)
 
