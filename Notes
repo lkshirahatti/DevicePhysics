@@ -1,4 +1,3 @@
 Bloch Theorem: The Theorem states that all one-electron wave functions, for problems involving periodically varying potential energy functions, mush be of the form 
-$$
-\psi(x) = u(x) e^{jkx}
-$$
+![ψ(x) = u(x) e^{jkx}](https://latex.codecogs.com/svg.image?\\psi(x)&space;=&space;u(x)&space;e^{jkx})
+
