@@ -13,7 +13,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Bulkbandstructure.gif)
 
 Note: Click the link above to view the animation.
 
-### Table 4.3 | Impurity Ionization Energies in Silicon and Germanium
+### Impurity Ionization Energies in Silicon and Germanium
 
 | **Impurity**   | **Ionization Energy (eV)** |            |  
 |----------------|----------------------------|------------|  
