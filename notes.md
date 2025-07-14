@@ -24,3 +24,8 @@ Note: Click the link above to view the animation.
 | *Acceptors*    |                            |            |  
 | Boron          | 0.045                      | 0.0104     |  
 | Aluminum       | 0.060                      | 0.0102     |
+
+
+**Two basic transport mechanisms in a semiconductor crystal: **
+1. drift—the movement of charge due to electric fields  
+2. diffusion—the flow of charge due to density gradients
