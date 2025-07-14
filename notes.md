@@ -4,8 +4,8 @@ The theorem states that all one-electron wave functions, for problems involving 
 &nbsp;&nbsp;&nbsp;&nbsp;$\psi(x) = u(x) \cdot \exp(j \cdot k \cdot x)$
 
 ## k-Space Diagram
-
 ![Band Gap Animation](https://upload.wikimedia.org/wikipedia/commons/d/d2/Bulkbandstructure.gif)
+Note: Click the image above to view the animation.
 
 **Image Attribution:**  
 "Bulkbandstructure.gif" by Solid State is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
