@@ -24,3 +24,45 @@ Oxygen / Moisture Impact References
 2. Oxidation of the TA Diffusion Barrier and Its Effect on the Reliability of CU Interconnects (https://www.researchgate.net/publication/224672883_Oxidation_of_the_TA_Diffusion_Barrier_and_Its_Effect_on_the_Reliability_of_CU_Interconnects)
 3. D. Shamiryan et al. “Low-k dielectric materials”. In: Materials Today 7.1 (2004), pp. 34–39. issn: 13697021. https://www.sciencedirect.com/science/article/pii/S1369702104000537 
 4. Challenges in the implementation of low-k dielectrics in the back-end of line https://www.sciencedirect.com/science/article/abs/pii/S0167931705002273 
+
+
+
+VLSI 
+1. **Neil H. E. Weste & David Money Harris**,  
+   *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th Edition, Pearson, 2010.  
+   [Companion site with lecture slides, labs, and projects](https://pages.hmc.edu/harris/cmosvlsi/4e/index.html)  
+   [Direct link to lecture videos](https://pages.hmc.edu/harris/cmosvlsi/4e/lect/index.html)
+
+2. **NPTEL – VLSI Design Lectures**,  
+   by Prof. Janakiraman and others at IITs.  
+   Covers topics from RTL coding to physical design and verification.  
+   [Available via NPTEL Portal](https://nptel.ac.in/courses/117101058) or [YouTube Channel](https://www.youtube.com/c/nptelhrd/playlists)
+
+3. **David Money Harris (Harvey Mudd College)**  
+   - [RTL to GDS Flow Labs](https://pages.hmc.edu/harris/class/e155/index.html)  
+   Includes hands-on labs with Verilog, synthesis, place & route using tools like Cadence or OpenROAD.
+
+4. **The OpenROAD Project**  
+   Open-source RTL-to-GDSII flow developed by DARPA and university collaborators.  
+   [GitHub Repo](https://github.com/The-OpenROAD-Project/OpenROAD)  
+   [Official Documentation](https://openroad.readthedocs.io/)
+
+5. **Skywater Open PDK & Google’s Open MPW Initiative**  
+   Real-world tapeout project using Sky130nm node with OpenLane flow.  
+   - [Skywater PDK GitHub](https://github.com/google/skywater-pdk)  
+   - [OpenLane GitHub](https://github.com/The-OpenROAD-Project/OpenLane)  
+   - [MPW Shuttle Info](https://efabless.com/open_shuttle_program)
+
+6. **“Digital Integrated Circuits” by Jan M. Rabaey et al.**,  
+   2nd Edition, Prentice Hall, 2002.  
+   Offers deeper transistor-level and timing analysis that complements RTL-GDS2 flow.  
+   ISBN: 978-0130909961
+
+7. **ASIC World – Verilog & VLSI Flow Tutorials**  
+   Free educational platform for RTL, synthesis, and testbench writing.  
+   [https://asic-world.com/](https://asic-world.com/)
+
+8. **Digital VLSI Design on GitHub**  
+   Example flows integrating Verilog → Yosys → OpenROAD → Magic + KLayout.  
+   [Awesome Open Source VLSI Projects](https://github.com/drom/awesome-open-source-vlsi)
+
