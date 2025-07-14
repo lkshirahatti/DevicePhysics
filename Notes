@@ -7,3 +7,16 @@ k-Space Diagram
 **Image Attribution:**  
 "Bulkbandstructure.gif" by Solid State is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
 Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Bulkbandstructure.gif)
+
+## Bloch Theorem
+
+The theorem states that all one-electron wave functions, for problems involving periodically varying potential energy functions, must be of the form:  
+&nbsp;&nbsp;&nbsp;&nbsp;ψ(x) = u(x) · exp(j·k·x)
+
+## k-Space Diagram
+
+![Band Gap Animation](https://upload.wikimedia.org/wikipedia/commons/d/d2/Bulkbandstructure.gif)
+
+**Image Attribution:**  
+"Bulkbandstructure.gif" by Solid State is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
+Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Bulkbandstructure.gif)
