@@ -8,25 +8,6 @@ Some concepts, equations, and data in this repository are adapted from the follo
 4. Stephen A. Campbell, *The Science and Engineering of Microelectronic Fabrication*, 2nd Edition, Oxford University Press, 2001. ISBN: 978-0195136050.
 
 
-
-
-Following Links Provide References / Sources for Novice Semiconductor Device Physics Engineers   
-Band Gap of different Materials 
-1. [Wiki](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) 
-2. [Energy Band Gap](https://psec.uchicago.edu/library/photocathodes/Compilation_of_Energy_Band_Gaps_in_Elemental_and_Binary_Compound.pdf) 
-
-
-
-
-
-Oxygen / Moisture Impact References 
-1. https://theses.hal.science/tel-03205937v1/file/VIDAL-DHO_2020_archivage.pdf 
-2. Oxidation of the TA Diffusion Barrier and Its Effect on the Reliability of CU Interconnects (https://www.researchgate.net/publication/224672883_Oxidation_of_the_TA_Diffusion_Barrier_and_Its_Effect_on_the_Reliability_of_CU_Interconnects)
-3. D. Shamiryan et al. “Low-k dielectric materials”. In: Materials Today 7.1 (2004), pp. 34–39. issn: 13697021. https://www.sciencedirect.com/science/article/pii/S1369702104000537 
-4. Challenges in the implementation of low-k dielectrics in the back-end of line https://www.sciencedirect.com/science/article/abs/pii/S0167931705002273 
-
-
-
 VLSI 
 1. **Neil H. E. Weste & David Money Harris**,  
    *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th Edition, Pearson, 2010.  
@@ -80,3 +61,20 @@ VLSI
 8. JEDEC Solid State Technology Association, *JESD47 and JESD22 Series: Stress-Test-Driven Qualification of Integrated Circuits*, [Available at JEDEC.org](https://www.jedec.org).
 9. IEEE Standards Association, *IEEE Std 1413-2010: Standard Framework for Reliability Prediction*, IEEE, 2010. DOI: 10.1109/IEEESTD.2010.5540906.
 10. Telcordia Technologies, *SR-332: Reliability Prediction Procedure for Electronic Equipment*, Issue 4, 2016.
+
+
+
+
+Following Links Provide References / Sources for Novice Semiconductor Device Physics Engineers   
+Band Gap of different Materials 
+1. [Wiki](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) 
+2. [Energy Band Gap](https://psec.uchicago.edu/library/photocathodes/Compilation_of_Energy_Band_Gaps_in_Elemental_and_Binary_Compound.pdf) 
+
+Oxygen / Moisture Impact References 
+1. https://theses.hal.science/tel-03205937v1/file/VIDAL-DHO_2020_archivage.pdf 
+2. Oxidation of the TA Diffusion Barrier and Its Effect on the Reliability of CU Interconnects (https://www.researchgate.net/publication/224672883_Oxidation_of_the_TA_Diffusion_Barrier_and_Its_Effect_on_the_Reliability_of_CU_Interconnects)
+3. D. Shamiryan et al. “Low-k dielectric materials”. In: Materials Today 7.1 (2004), pp. 34–39. issn: 13697021. https://www.sciencedirect.com/science/article/pii/S1369702104000537 
+4. Challenges in the implementation of low-k dielectrics in the back-end of line https://www.sciencedirect.com/science/article/abs/pii/S0167931705002273 
+
+
+
