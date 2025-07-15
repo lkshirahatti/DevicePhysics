@@ -46,3 +46,5 @@ Excess electrons and excess holes do not move independently of each other.
 These excess carriers diffuse, drift, and recombine with the same effective diffusion coefficient, drift mobility, and lifetime. 
 This phenomenon is called **ambipolar transport**.
 
+Excess carriers dominate the electrical properties of a semiconductor material, and the behavior of excess carriers is fundamental to the
+operation of semiconductor devices. 
