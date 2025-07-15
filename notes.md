@@ -32,6 +32,4 @@ Note: Click the link above to view the animation.
 
 The carrier transport phenomena are the foundation for finally determining the current–voltage characteristics of semiconductor devices.
 
-Particle will gain an average drift velocity (low electric fields) is directly proportional to the electric field. 
-$ v_{dp} = \mu_p \mathbf{E} $
-where $ \mu_p $ is the proportionality factor and is called the hole mobility.
+
