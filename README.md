@@ -73,8 +73,8 @@ VLSI
 ## References on Reliability 
 
 1. Richard C. Jaeger, *Introduction to Microelectronic Fabrication*, 2nd Edition, Pearson Education, 2001. ISBN: 978-0201444940.
-2. Renesas Electronics Corporation, *Semiconductor Reliability Handbook*, 2023 Edition. [Available online](https://www.renesas.com/document/mah/semiconductor-device-reliability-handbook).
-3. United States Department of Defense, *MIL-HDBK-217F: Military Handbook – Reliability Prediction of Electronic Equipment*, Notice 2, February 1995. [Public domain PDF](https://quicksearch.dla.mil/).
+2. Renesas Electronics Corporation, *Semiconductor Reliability Handbook*, 2023 Edition. 
+3. United States Department of Defense, *MIL-HDBK-217F: Military Handbook – Reliability Prediction of Electronic Equipment*, Notice 2, February 1995. 
 4. S. M. Sze and Kwok K. Ng, *Physics of Semiconductor Devices*, 3rd Edition, Wiley-Interscience, 2006. ISBN: 978-0471143239.
 5. Donald A. Neamen, *Semiconductor Physics and Devices: Basic Principles*, 4th Edition, McGraw-Hill Education, 2011. ISBN: 978-0073380643.
 6. Stephen A. Campbell, *The Science and Engineering of Microelectronic Fabrication*, 2nd Edition, Oxford University Press, 2001. ISBN: 978-0195136050.
