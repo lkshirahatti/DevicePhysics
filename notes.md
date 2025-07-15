@@ -40,5 +40,6 @@ Typical mobility and diffusion coefficient values at $T = 300 \, \text{K}$
 | **Gallium Arsenide** | 8500              | 220           | 400               | 10.4          |
 | Germanium            | 3900              | 101           | 1900              | 49.2          |
 
-
+Excess electrons and excess holes do not move independently of each other.
+These excess carriers diffuse, drift, and recombine with the same effective diffusion coefficient, drift mobility, and lifetime. This phenomenon is called **ambipolar transport**.
 
