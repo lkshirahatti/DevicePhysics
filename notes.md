@@ -48,3 +48,15 @@ This phenomenon is called **ambipolar transport**.
 
 Excess carriers dominate the electrical properties of a semiconductor material, and the behavior of excess carriers is fundamental to the
 operation of semiconductor devices. 
+
+
+
+| **Symbol**            | **Definition**                                                                                  |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| *n₀, p₀*              | Thermal-equilibrium electron and hole concentrations (independent of time and usually position) |
+| *n, p*                | Total electron and hole concentrations (may be functions of time and/or position)               |
+| *δn = n − n₀*         | Excess electron concentration (may be a function of time and/or position)                       |
+| *δp = p − p₀*         | Excess hole concentration (may be a function of time and/or position)                           |
+| *g′ₙ, g′ₚ*            | Excess electron and hole generation rates                                                       |
+| *R′ₙ, R′ₚ*            | Excess electron and hole recombination rates                                                    |
+| *τₙ₀, τₚ₀*            | Excess minority carrier electron and hole lifetimes                                             |
