@@ -32,4 +32,14 @@ Note: Click the link above to view the animation.
 
 The carrier transport phenomena are the foundation for finally determining the current–voltage characteristics of semiconductor devices.
 
+Typical mobility and diffusion coefficient values at $T = 300 \, \text{K}$  
+*($\mu$ in cm²/V-s and $D$ in cm²/s)*
+
+| **Material**         | $\mu_n$ (cm²/V·s) | $D_n$ (cm²/s) | $\mu_p$ (cm²/V·s) | $D_p$ (cm²/s) |
+|----------------------|-------------------|---------------|-------------------|---------------|
+| **Silicon**          | 1350              | 35            | 480               | 12.4          |
+| **Gallium Arsenide** | 8500              | 220           | 400               | 10.4          |
+| Germanium            | 3900              | 101           | 1900              | 49.2          |
+
+
 
