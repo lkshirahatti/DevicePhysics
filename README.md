@@ -2,7 +2,7 @@
 
 A curated collection of Jupyter Notebooks explaining fundamental concepts of semiconductor device physics.
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Drift and Diffusion Current
 - Fermi Level Calculations
@@ -12,7 +12,7 @@ A curated collection of Jupyter Notebooks explaining fundamental concepts of sem
 - Einstein Relation
 - Resistor Design
 
-## 🧪 Examples
+## Examples
 
 Each notebook includes:
 - Scientific equations using LaTeX ($...$)
@@ -29,7 +29,7 @@ Some concepts, equations, and data in this repository are adapted from the follo
 4. Stephen A. Campbell, *The Science and Engineering of Microelectronic Fabrication*, 2nd Edition, Oxford University Press, 2001. ISBN: 978-0195136050.
 
 
-VLSI 
+## VLSI 
 1. **Neil H. E. Weste & David Money Harris**,  
    *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th Edition, Pearson, 2010.  
    [Companion site with lecture slides, labs, and projects](https://pages.hmc.edu/harris/cmosvlsi/4e/index.html)  
@@ -91,7 +91,7 @@ Band Gap of different Materials
 1. [Wiki](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) 
 2. [Energy Band Gap](https://psec.uchicago.edu/library/photocathodes/Compilation_of_Energy_Band_Gaps_in_Elemental_and_Binary_Compound.pdf) 
 
-Oxygen / Moisture Impact References 
+## Oxygen / Moisture Impact References 
 1. https://theses.hal.science/tel-03205937v1/file/VIDAL-DHO_2020_archivage.pdf 
 2. Oxidation of the TA Diffusion Barrier and Its Effect on the Reliability of CU Interconnects (https://www.researchgate.net/publication/224672883_Oxidation_of_the_TA_Diffusion_Barrier_and_Its_Effect_on_the_Reliability_of_CU_Interconnects)
 3. D. Shamiryan et al. “Low-k dielectric materials”. In: Materials Today 7.1 (2004), pp. 34–39. issn: 13697021. https://www.sciencedirect.com/science/article/pii/S1369702104000537 
