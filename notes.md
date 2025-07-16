@@ -62,4 +62,4 @@ operation of semiconductor devices.
 | *τₙ₀, τₚ₀*            | Excess minority carrier electron and hole lifetimes                                             |
 
 
-Ror an extrinsic semiconductor under low injection, the effective diffusion coefficient and mobility parameters are those of the **minority carrier**.
+For an extrinsic semiconductor under low injection, the effective diffusion coefficient and mobility parameters are those of the **minority carrier**.
