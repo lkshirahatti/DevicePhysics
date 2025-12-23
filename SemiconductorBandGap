@@ -1,0 +1,41 @@
+Sl. No	Material	Chemical Formula	Band Gap (eV)
+1	Silicon	Si	1.12
+2	Germanium	Ge	0.66
+3	Diamond	C	5.47
+4	Gray Tin	α-Sn	~0
+5	Gallium Arsenide	GaAs	1.42
+6	Indium Phosphide	InP	1.34
+7	Indium Arsenide	InAs	0.36
+8	Gallium Nitride	GaN	3.4
+9	Aluminum Nitride	AlN	6.2
+10	Indium Nitride	InN	0.65–0.70
+11	Gallium Phosphide	GaP	2.26
+12	Aluminum Phosphide	AlP	2.45
+13	Aluminum Gallium Arsenide	AlₓGa₁₋ₓAs	1.42–2.16
+14	Indium Gallium Arsenide	InₓGa₁₋ₓAs	0.75–1.42
+15	Aluminum Gallium Nitride	AlₓGa₁₋ₓN	3.40–6.20
+16	Indium Aluminum Nitride	InₓAl₁₋ₓN	2.0–6.2
+17	Cadmium Telluride	CdTe	1.45
+18	Cadmium Sulfide	CdS	2.42
+19	Cadmium Selenide	CdSe	1.74
+20	Zinc Oxide	ZnO	3.37
+21	Zinc Sulfide	ZnS	3.6
+22	Zinc Selenide	ZnSe	2.7
+23	Mercury Cadmium Telluride	HgₓCd₁₋ₓTe	0–1.5
+24	Silicon Carbide (4H)	SiC	3.26
+25	Silicon Carbide (6H)	SiC	3.02
+26	Gallium Oxide (β phase)	β-Ga₂O₃	4.8–4.9
+27	Silicon Germanium	SiₓGe₁₋ₓ	0.66–1.12
+28	Indium Tin Oxide (optical)	In₂O₃:Sn	3.6–4.1
+29	IGZO (optical)	InGaZnO	~3.0
+30	Tin Oxide	SnO₂	3.6
+31	Titanium Dioxide	TiO₂	3.0–3.2
+32	Copper(I) Oxide	Cu₂O	2.1
+33	Molybdenum Disulfide (mono)	MoS₂	~1.8
+34	Tungsten Disulfide (mono)	WS₂	~2.0
+35	Tungsten Diselenide (mono)	WSe₂	~1.6
+36	Black Phosphorus	P	0.3–2.0
+37	Hexagonal Boron Nitride	h-BN	~5.9
+38	Perovskite (MAPbI₃)	CH₃NH₃PbI₃	~1.55
+39	P3HT (optical)	(C₁₀H₁₄S)ₙ	~1.9–2.1
+40	Pentacene (optical)	C₂₂H₁₄	~2.2
